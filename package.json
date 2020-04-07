@@ -1,23 +1,211 @@
 {
-  "name": "emoji-snippet-vscode",
-  "version": "1.0.1",
-  "publisher": "doooreyn",
-  "engines": {
-    "vscode": "^1.0.0"
+	"name": "emoji-snippet-vscode",
+	"version": "1.0.1",
+	"publisher": "doooreyn",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [ "Snippets", "Other" ],
+	"displayName": "Emoji Snippet",
+	"description": "An emoji snippet for vscode.",
+	"main": "./out/extension",
+  "keywords": [ "emoji", "snippet" ],
+  "galleryBanner": {
+    "color": "#549BFF",
+    "theme": "dark"
   },
-  "displayName": "Emoji Snippet",
-  "description": "An emoji snippet for vscode.",
-  "main": "./",
-  "keywords": [
-    "emoji",
-    "snippet"
+  "activationEvents": [
+    "onLanguage:c",
+    "onLanguage:cpp",
+    "onLanguage:closure",
+    "onLanguage:coffeescript",
+    "onLanguage:csharp",
+    "onLanguage:css",
+    "onLanguage:git-commit",
+    "onLanguage:go",
+    "onLanguage:groovy",
+    "onLanguage:html",
+    "onLanguage:java",
+    "onLanguage:javascript",
+    "onLanguage:json",
+    "onLanguage:jsonc",
+    "onLanguage:latex",
+    "onLanguage:less",
+    "onLanguage:lua",
+    "onLanguage:markdown",
+    "onLanguage:objective-c",
+    "onLanguage:objective-cpp",
+    "onLanguage:perl",
+    "onLanguage:php",
+    "onLanguage:plaintext",
+    "onLanguage:jade",
+    "onLanguage:python",
+    "onLanguage:r",
+    "onLanguage:ruby",
+    "onLanguage:rust",
+    "onLanguage:scss",
+    "onLanguage:shellscript",
+    "onLanguage:swift",
+    "onLanguage:typescript",
+    "onLanguage:xml",
+    "onLanguage:yaml",
+    "onLanguage:vue",
+    "onLanguage:vue-html"
   ],
-  "author": "DoooReyn",
-  "license": "ISC",
-  "icon": "icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/DoooReyn/emoji-snippet-vscode.git"
-  },
-  "homepage": "https://github.com/DoooReyn/emoji-snippet-vscode/blob/master/README.md"
+	"author": "DoooReyn",
+	"license": "ISC",
+	"icon": "icon.png",
+	"contributes": {
+		"snippets": [
+			{
+				"language": "c",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "cpp",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "closure",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "coffeescript",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "csharp",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "css",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "git-commit",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "go",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "groovy",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "html",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "java",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "json",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "jsonc",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "latex",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "less",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "lua",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "markdown",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "objective-c",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "objective-cpp",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "perl",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "php",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "plaintext",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "jade",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "python",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "r",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "ruby",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "rust",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "scss",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "shellscript",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "swift",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "xml",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "yaml",
+				"path": "./emoji-snippet.json"
+			},
+			{
+				"language": "vue",
+				"path": "./vant-ui.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./vant-ui.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DoooReyn/emoji-snippet-vscode.git"
+	},
+	"homepage": "https://github.com/DoooReyn/emoji-snippet-vscode/blob/master/README.md"
 }
