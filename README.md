@@ -1,7 +1,9 @@
 # emoji-snippet-vscode
 
-An emoji snippet for vscode.
+This is an emoji snippet for vscode.
 
-Just input `emoji`, then you could get these below:
+## Usage
+
+Just input `emoji`, and then choose one displayed in the list like below.
 
 ![Preview](./screenshot.png)
