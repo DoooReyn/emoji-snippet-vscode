@@ -1,0 +1,2552 @@
+{
+	"biking man bicyclist": {
+		"prefix": "emoji:biking man bicyclist",
+		"body": "🚴",
+		"description": "🚴 biking man bicyclist "
+	},
+	"bowing man bow - respect thanks": {
+		"prefix": "emoji:bowing man bow - respect thanks",
+		"body": "🙇",
+		"description": "🙇 bowing man bow - respect thanks"
+	},
+	"boom collision - explode": {
+		"prefix": "emoji:boom collision - explode",
+		"body": "💥",
+		"description": "💥 boom collision - explode"
+	},
+	"clamp": {
+		"prefix": "emoji:clamp",
+		"body": "🗜",
+		"description": "🗜 clamp "
+	},
+	"construction worker man construction worker - helmet": {
+		"prefix": "emoji:construction worker man construction worker - helmet",
+		"body": "👷",
+		"description": "👷 construction worker man construction worker - helmet"
+	},
+	"policeman cop - police law": {
+		"prefix": "emoji:policeman cop - police law",
+		"body": "👮",
+		"description": "👮 policeman cop - police law"
+	},
+	"dancing women dancers - bunny": {
+		"prefix": "emoji:dancing women dancers - bunny",
+		"body": "👯",
+		"description": "👯 dancing women dancers - bunny"
+	},
+	"family man woman boy family - home parents child": {
+		"prefix": "emoji:family man woman boy family - home parents child",
+		"body": "👪",
+		"description": "👪 family man woman boy family - home parents child"
+	},
+	"fist raised fist - power": {
+		"prefix": "emoji:fist raised fist - power",
+		"body": "✊",
+		"description": "✊ fist raised fist - power"
+	},
+	"dolphin flipper": {
+		"prefix": "emoji:dolphin flipper",
+		"body": "🐬",
+		"description": "🐬 dolphin flipper "
+	},
+	"framed picture": {
+		"prefix": "emoji:framed picture",
+		"body": "🖼",
+		"description": "🖼 framed picture "
+	},
+	"golfing man": {
+		"prefix": "emoji:golfing man",
+		"body": "🏌",
+		"description": "🏌 golfing man "
+	},
+	"haircut woman haircut - beauty": {
+		"prefix": "emoji:haircut woman haircut - beauty",
+		"body": "💇",
+		"description": "💇 haircut woman haircut - beauty"
+	},
+	"rescue worker helmet": {
+		"prefix": "emoji:rescue worker helmet",
+		"body": "⛑",
+		"description": "⛑ rescue worker helmet "
+	},
+	"bee honeybee": {
+		"prefix": "emoji:bee honeybee",
+		"body": "🐝",
+		"description": "🐝 bee honeybee "
+	},
+	"houses": {
+		"prefix": "emoji:houses",
+		"body": "🏘",
+		"description": "🏘 houses "
+	},
+	"hocho knife - cut chop": {
+		"prefix": "emoji:hocho knife - cut chop",
+		"body": "🔪",
+		"description": "🔪 hocho knife - cut chop"
+	},
+	"izakaya lantern lantern": {
+		"prefix": "emoji:izakaya lantern lantern",
+		"body": "🏮",
+		"description": "🏮 izakaya lantern lantern "
+	},
+	"cloud with lightning": {
+		"prefix": "emoji:cloud with lightning",
+		"body": "🌩",
+		"description": "🌩 cloud with lightning "
+	},
+	" couple with heart man man": {
+		"prefix": "emoji: couple with heart man man",
+		"body": "👨‍❤️‍👨",
+		"description": "👨‍❤️‍👨 couple with heart man man "
+	},
+	" couplekiss man man": {
+		"prefix": "emoji: couplekiss man man",
+		"body": "👨‍❤️‍💋‍👨",
+		"description": "👨‍❤️‍💋‍👨 couplekiss man man "
+	},
+	" family man man boy": {
+		"prefix": "emoji: family man man boy",
+		"body": "👨‍👨‍👦",
+		"description": "👨‍👨‍👦 family man man boy "
+	},
+	" family man man boy boy": {
+		"prefix": "emoji: family man man boy boy",
+		"body": "👨‍👨‍👦‍👦",
+		"description": "👨‍👨‍👦‍👦 family man man boy boy "
+	},
+	" family man man girl": {
+		"prefix": "emoji: family man man girl",
+		"body": "👨‍👨‍👧",
+		"description": "👨‍👨‍👧 family man man girl "
+	},
+	" family man man girl boy": {
+		"prefix": "emoji: family man man girl boy",
+		"body": "👨‍👨‍👧‍👦",
+		"description": "👨‍👨‍👧‍👦 family man man girl boy "
+	},
+	" family man man girl girl": {
+		"prefix": "emoji: family man man girl girl",
+		"body": "👨‍👨‍👧‍👧",
+		"description": "👨‍👨‍👧‍👧 family man man girl girl "
+	},
+	" family man woman boy boy": {
+		"prefix": "emoji: family man woman boy boy",
+		"body": "👨‍👩‍👦‍👦",
+		"description": "👨‍👩‍👦‍👦 family man woman boy boy "
+	},
+	" family man woman girl": {
+		"prefix": "emoji: family man woman girl",
+		"body": "👨‍👩‍👧",
+		"description": "👨‍👩‍👧 family man woman girl "
+	},
+	" family man woman girl boy": {
+		"prefix": "emoji: family man woman girl boy",
+		"body": "👨‍👩‍👧‍👦",
+		"description": "👨‍👩‍👧‍👦 family man woman girl boy "
+	},
+	" family man woman girl girl": {
+		"prefix": "emoji: family man woman girl girl",
+		"body": "👨‍👩‍👧‍👧",
+		"description": "👨‍👩‍👧‍👧 family man woman girl girl "
+	},
+	"massage woman massage - spa": {
+		"prefix": "emoji:massage woman massage - spa",
+		"body": "💆",
+		"description": "💆 massage woman massage - spa"
+	},
+	"medal military": {
+		"prefix": "emoji:medal military",
+		"body": "🎖",
+		"description": "🎖 medal military "
+	},
+	"mountain biking man mountain bicyclist": {
+		"prefix": "emoji:mountain biking man mountain bicyclist",
+		"body": "🚵",
+		"description": "🚵 mountain biking man mountain bicyclist "
+	},
+	"no good woman no good ng woman - stop halt": {
+		"prefix": "emoji:no good woman no good ng woman - stop halt",
+		"body": "🙅",
+		"description": "🙅 no good woman no good ng woman - stop halt"
+	},
+	"non-potable water": {
+		"prefix": "emoji:non-potable water",
+		"body": "🚱",
+		"description": "🚱 non-potable water "
+	},
+	"om": {
+		"prefix": "emoji:om",
+		"body": "🕉",
+		"description": "🕉 om "
+	},
+	"book open book": {
+		"prefix": "emoji:book open book",
+		"body": "📖",
+		"description": "📖 book open book "
+	},
+	"feet paw prints": {
+		"prefix": "emoji:feet paw prints",
+		"body": "🐾",
+		"description": "🐾 feet paw prints "
+	},
+	"memo pencil - document note": {
+		"prefix": "emoji:memo pencil - document note",
+		"body": "📝",
+		"description": "📝 memo pencil - document note"
+	},
+	"frowning woman person frowning - sad": {
+		"prefix": "emoji:frowning woman person frowning - sad",
+		"body": "🙍",
+		"description": "🙍 frowning woman person frowning - sad"
+	},
+	"basketball man": {
+		"prefix": "emoji:basketball man",
+		"body": "⛹",
+		"description": "⛹ basketball man "
+	},
+	"blonde man person with blond hair - boy": {
+		"prefix": "emoji:blonde man person with blond hair - boy",
+		"body": "👱",
+		"description": "👱 blonde man person with blond hair - boy"
+	},
+	"pouting woman person with pouting face": {
+		"prefix": "emoji:pouting woman person with pouting face",
+		"body": "🙎",
+		"description": "🙎 pouting woman person with pouting face "
+	},
+	"hankey poop shit - crap": {
+		"prefix": "emoji:hankey poop shit - crap",
+		"body": "💩",
+		"description": "💩 hankey poop shit - crap"
+	},
+	"fist oncoming facepunch punch - attack": {
+		"prefix": "emoji:fist oncoming facepunch punch - attack",
+		"body": "👊",
+		"description": "👊 fist oncoming facepunch punch - attack"
+	},
+	"raising hand woman raising hand": {
+		"prefix": "emoji:raising hand woman raising hand",
+		"body": "🙋",
+		"description": "🙋 raising hand woman raising hand "
+	},
+	"car red car": {
+		"prefix": "emoji:car red car",
+		"body": "🚗",
+		"description": "🚗 car red car "
+	},
+	"newspaper roll - press": {
+		"prefix": "emoji:newspaper roll - press",
+		"body": "🗞",
+		"description": "🗞 newspaper roll - press"
+	},
+	"rowing man rowboat": {
+		"prefix": "emoji:rowing man rowboat",
+		"body": "🚣",
+		"description": "🚣 rowing man rowboat "
+	},
+	"running man runner running - exercise workout marathon": {
+		"prefix": "emoji:running man runner running - exercise workout marathon",
+		"body": "🏃",
+		"description": "🏃 running man runner running - exercise workout marathon"
+	},
+	"laughing satisfied - happy haha": {
+		"prefix": "emoji:laughing satisfied - happy haha",
+		"body": "😆",
+		"description": "😆 laughing satisfied - happy haha"
+	},
+	"mans shoe shoe": {
+		"prefix": "emoji:mans shoe shoe",
+		"body": "👞",
+		"description": "👞 mans shoe shoe "
+	},
+	"shopping - bags": {
+		"prefix": "emoji:shopping - bags",
+		"body": "🛍",
+		"description": "🛍 shopping - bags"
+	},
+	"spiral calendar": {
+		"prefix": "emoji:spiral calendar",
+		"body": "🗓",
+		"description": "🗓 spiral calendar "
+	},
+	"spiral notepad": {
+		"prefix": "emoji:spiral notepad",
+		"body": "🗒",
+		"description": "🗒 spiral notepad "
+	},
+	"surfing man surfer": {
+		"prefix": "emoji:surfing man surfer",
+		"body": "🏄",
+		"description": "🏄 surfing man surfer "
+	},
+	"metal": {
+		"prefix": "emoji:metal",
+		"body": "🤘",
+		"description": "🤘 metal "
+	},
+	"shirt tshirt": {
+		"prefix": "emoji:shirt tshirt",
+		"body": "👕",
+		"description": "👕 shirt tshirt "
+	},
+	"walking man walking": {
+		"prefix": "emoji:walking man walking",
+		"body": "🚶",
+		"description": "🚶 walking man walking "
+	},
+	"black flag": {
+		"prefix": "emoji:black flag",
+		"body": "🏴",
+		"description": "🏴 black flag "
+	},
+	"wind face": {
+		"prefix": "emoji:wind face",
+		"body": "🌬",
+		"description": "🌬 wind face "
+	},
+	" couple with heart woman woman": {
+		"prefix": "emoji: couple with heart woman woman",
+		"body": "👩‍❤️‍👩",
+		"description": "👩‍❤️‍👩 couple with heart woman woman "
+	},
+	" couplekiss woman woman": {
+		"prefix": "emoji: couplekiss woman woman",
+		"body": "👩‍❤️‍💋‍👩",
+		"description": "👩‍❤️‍💋‍👩 couplekiss woman woman "
+	},
+	" family woman woman boy": {
+		"prefix": "emoji: family woman woman boy",
+		"body": "👩‍👩‍👦",
+		"description": "👩‍👩‍👦 family woman woman boy "
+	},
+	" family woman woman boy boy": {
+		"prefix": "emoji: family woman woman boy boy",
+		"body": "👩‍👩‍👦‍👦",
+		"description": "👩‍👩‍👦‍👦 family woman woman boy boy "
+	},
+	" family woman woman girl": {
+		"prefix": "emoji: family woman woman girl",
+		"body": "👩‍👩‍👧",
+		"description": "👩‍👩‍👧 family woman woman girl "
+	},
+	" family woman woman girl boy": {
+		"prefix": "emoji: family woman woman girl boy",
+		"body": "👩‍👩‍👧‍👦",
+		"description": "👩‍👩‍👧‍👦 family woman woman girl boy "
+	},
+	" family woman woman girl girl": {
+		"prefix": "emoji: family woman woman girl girl",
+		"body": "👩‍👩‍👧‍👧",
+		"description": "👩‍👩‍👧‍👧 family woman woman girl girl "
+	},
+	"next track button": {
+		"prefix": "emoji:next track button",
+		"body": "⏭",
+		"description": "⏭ next track button "
+	},
+	"previous track button": {
+		"prefix": "emoji:previous track button",
+		"body": "⏮",
+		"description": "⏮ previous track button "
+	},
+	"play or pause button": {
+		"prefix": "emoji:play or pause button",
+		"body": "⏯",
+		"description": "⏯ play or pause button "
+	},
+	"alarm clock - morning": {
+		"prefix": "emoji:alarm clock - morning",
+		"body": "⏰",
+		"description": "⏰ alarm clock - morning"
+	},
+	"timer clock": {
+		"prefix": "emoji:timer clock",
+		"body": "⏲",
+		"description": "⏲ timer clock "
+	},
+	"hourglass flowing sand - time": {
+		"prefix": "emoji:hourglass flowing sand - time",
+		"body": "⏳",
+		"description": "⏳ hourglass flowing sand - time"
+	},
+	"pause button": {
+		"prefix": "emoji:pause button",
+		"body": "⏸",
+		"description": "⏸ pause button "
+	},
+	"stop button": {
+		"prefix": "emoji:stop button",
+		"body": "⏹",
+		"description": "⏹ stop button "
+	},
+	"record button": {
+		"prefix": "emoji:record button",
+		"body": "⏺",
+		"description": "⏺ record button "
+	},
+	"hammer and pick": {
+		"prefix": "emoji:hammer and pick",
+		"body": "⚒",
+		"description": "⚒ hammer and pick "
+	},
+	"cloud with lightning and rain": {
+		"prefix": "emoji:cloud with lightning and rain",
+		"body": "⛈",
+		"description": "⛈ cloud with lightning and rain "
+	},
+	"shinto shrine": {
+		"prefix": "emoji:shinto shrine",
+		"body": "⛩",
+		"description": "⛩ shinto shrine "
+	},
+	"parasol on ground - beach_umbrella": {
+		"prefix": "emoji:parasol on ground - beach_umbrella",
+		"body": "⛱",
+		"description": "⛱ parasol on ground - beach_umbrella"
+	},
+	"white check mark": {
+		"prefix": "emoji:white check mark",
+		"body": "✅",
+		"description": "✅ white check mark "
+	},
+	"hand raised hand - highfive stop": {
+		"prefix": "emoji:hand raised hand - highfive stop",
+		"body": "✋",
+		"description": "✋ hand raised hand - highfive stop"
+	},
+	"negative squared cross mark": {
+		"prefix": "emoji:negative squared cross mark",
+		"body": "❎",
+		"description": "❎ negative squared cross mark "
+	},
+	"heavy plus sign": {
+		"prefix": "emoji:heavy plus sign",
+		"body": "➕",
+		"description": "➕ heavy plus sign "
+	},
+	"heavy minus sign": {
+		"prefix": "emoji:heavy minus sign",
+		"body": "➖",
+		"description": "➖ heavy minus sign "
+	},
+	"heavy division sign": {
+		"prefix": "emoji:heavy division sign",
+		"body": "➗",
+		"description": "➗ heavy division sign "
+	},
+	"black joker": {
+		"prefix": "emoji:black joker",
+		"body": "🃏",
+		"description": "🃏 black joker "
+	},
+	"ok - yes": {
+		"prefix": "emoji:ok - yes",
+		"body": "🆗",
+		"description": "🆗 ok - yes"
+	},
+	" andorra": {
+		"prefix": "emoji: andorra",
+		"body": "🇦🇩",
+		"description": "🇦🇩 andorra "
+	},
+	" united arab emirates": {
+		"prefix": "emoji: united arab emirates",
+		"body": "🇦🇪",
+		"description": "🇦🇪 united arab emirates "
+	},
+	" afghanistan": {
+		"prefix": "emoji: afghanistan",
+		"body": "🇦🇫",
+		"description": "🇦🇫 afghanistan "
+	},
+	" antigua barbuda": {
+		"prefix": "emoji: antigua barbuda",
+		"body": "🇦🇬",
+		"description": "🇦🇬 antigua barbuda "
+	},
+	" anguilla": {
+		"prefix": "emoji: anguilla",
+		"body": "🇦🇮",
+		"description": "🇦🇮 anguilla "
+	},
+	" albania": {
+		"prefix": "emoji: albania",
+		"body": "🇦🇱",
+		"description": "🇦🇱 albania "
+	},
+	" armenia": {
+		"prefix": "emoji: armenia",
+		"body": "🇦🇲",
+		"description": "🇦🇲 armenia "
+	},
+	" angola": {
+		"prefix": "emoji: angola",
+		"body": "🇦🇴",
+		"description": "🇦🇴 angola "
+	},
+	" antarctica": {
+		"prefix": "emoji: antarctica",
+		"body": "🇦🇶",
+		"description": "🇦🇶 antarctica "
+	},
+	" argentina": {
+		"prefix": "emoji: argentina",
+		"body": "🇦🇷",
+		"description": "🇦🇷 argentina "
+	},
+	" american samoa": {
+		"prefix": "emoji: american samoa",
+		"body": "🇦🇸",
+		"description": "🇦🇸 american samoa "
+	},
+	" austria": {
+		"prefix": "emoji: austria",
+		"body": "🇦🇹",
+		"description": "🇦🇹 austria "
+	},
+	" australia": {
+		"prefix": "emoji: australia",
+		"body": "🇦🇺",
+		"description": "🇦🇺 australia "
+	},
+	" aruba": {
+		"prefix": "emoji: aruba",
+		"body": "🇦🇼",
+		"description": "🇦🇼 aruba "
+	},
+	" aland islands": {
+		"prefix": "emoji: aland islands",
+		"body": "🇦🇽",
+		"description": "🇦🇽 aland islands "
+	},
+	" azerbaijan": {
+		"prefix": "emoji: azerbaijan",
+		"body": "🇦🇿",
+		"description": "🇦🇿 azerbaijan "
+	},
+	" bosnia herzegovina": {
+		"prefix": "emoji: bosnia herzegovina",
+		"body": "🇧🇦",
+		"description": "🇧🇦 bosnia herzegovina "
+	},
+	" barbados": {
+		"prefix": "emoji: barbados",
+		"body": "🇧🇧",
+		"description": "🇧🇧 barbados "
+	},
+	" bangladesh": {
+		"prefix": "emoji: bangladesh",
+		"body": "🇧🇩",
+		"description": "🇧🇩 bangladesh "
+	},
+	" belgium": {
+		"prefix": "emoji: belgium",
+		"body": "🇧🇪",
+		"description": "🇧🇪 belgium "
+	},
+	" burkina faso": {
+		"prefix": "emoji: burkina faso",
+		"body": "🇧🇫",
+		"description": "🇧🇫 burkina faso "
+	},
+	" bulgaria": {
+		"prefix": "emoji: bulgaria",
+		"body": "🇧🇬",
+		"description": "🇧🇬 bulgaria "
+	},
+	" bahrain": {
+		"prefix": "emoji: bahrain",
+		"body": "🇧🇭",
+		"description": "🇧🇭 bahrain "
+	},
+	" burundi": {
+		"prefix": "emoji: burundi",
+		"body": "🇧🇮",
+		"description": "🇧🇮 burundi "
+	},
+	" benin": {
+		"prefix": "emoji: benin",
+		"body": "🇧🇯",
+		"description": "🇧🇯 benin "
+	},
+	" st barthelemy": {
+		"prefix": "emoji: st barthelemy",
+		"body": "🇧🇱",
+		"description": "🇧🇱 st barthelemy "
+	},
+	" bermuda": {
+		"prefix": "emoji: bermuda",
+		"body": "🇧🇲",
+		"description": "🇧🇲 bermuda "
+	},
+	" brunei": {
+		"prefix": "emoji: brunei",
+		"body": "🇧🇳",
+		"description": "🇧🇳 brunei "
+	},
+	" bolivia": {
+		"prefix": "emoji: bolivia",
+		"body": "🇧🇴",
+		"description": "🇧🇴 bolivia "
+	},
+	" caribbean netherlands": {
+		"prefix": "emoji: caribbean netherlands",
+		"body": "🇧🇶",
+		"description": "🇧🇶 caribbean netherlands "
+	},
+	" brazil": {
+		"prefix": "emoji: brazil",
+		"body": "🇧🇷",
+		"description": "🇧🇷 brazil "
+	},
+	" bahamas": {
+		"prefix": "emoji: bahamas",
+		"body": "🇧🇸",
+		"description": "🇧🇸 bahamas "
+	},
+	" bhutan": {
+		"prefix": "emoji: bhutan",
+		"body": "🇧🇹",
+		"description": "🇧🇹 bhutan "
+	},
+	" botswana": {
+		"prefix": "emoji: botswana",
+		"body": "🇧🇼",
+		"description": "🇧🇼 botswana "
+	},
+	" belarus": {
+		"prefix": "emoji: belarus",
+		"body": "🇧🇾",
+		"description": "🇧🇾 belarus "
+	},
+	" belize": {
+		"prefix": "emoji: belize",
+		"body": "🇧🇿",
+		"description": "🇧🇿 belize "
+	},
+	" canada": {
+		"prefix": "emoji: canada",
+		"body": "🇨🇦",
+		"description": "🇨🇦 canada "
+	},
+	" cocos islands - keeling": {
+		"prefix": "emoji: cocos islands - keeling",
+		"body": "🇨🇨",
+		"description": "🇨🇨 cocos islands - keeling"
+	},
+	" congo kinshasa": {
+		"prefix": "emoji: congo kinshasa",
+		"body": "🇨🇩",
+		"description": "🇨🇩 congo kinshasa "
+	},
+	" central african republic": {
+		"prefix": "emoji: central african republic",
+		"body": "🇨🇫",
+		"description": "🇨🇫 central african republic "
+	},
+	" congo brazzaville": {
+		"prefix": "emoji: congo brazzaville",
+		"body": "🇨🇬",
+		"description": "🇨🇬 congo brazzaville "
+	},
+	" switzerland": {
+		"prefix": "emoji: switzerland",
+		"body": "🇨🇭",
+		"description": "🇨🇭 switzerland "
+	},
+	" cote divoire - ivory": {
+		"prefix": "emoji: cote divoire - ivory",
+		"body": "🇨🇮",
+		"description": "🇨🇮 cote divoire - ivory"
+	},
+	" cook islands": {
+		"prefix": "emoji: cook islands",
+		"body": "🇨🇰",
+		"description": "🇨🇰 cook islands "
+	},
+	" chile": {
+		"prefix": "emoji: chile",
+		"body": "🇨🇱",
+		"description": "🇨🇱 chile "
+	},
+	" cameroon": {
+		"prefix": "emoji: cameroon",
+		"body": "🇨🇲",
+		"description": "🇨🇲 cameroon "
+	},
+	" cn - china": {
+		"prefix": "emoji: cn - china",
+		"body": "🇨🇳",
+		"description": "🇨🇳 cn - china"
+	},
+	" colombia": {
+		"prefix": "emoji: colombia",
+		"body": "🇨🇴",
+		"description": "🇨🇴 colombia "
+	},
+	" costa rica": {
+		"prefix": "emoji: costa rica",
+		"body": "🇨🇷",
+		"description": "🇨🇷 costa rica "
+	},
+	" cuba": {
+		"prefix": "emoji: cuba",
+		"body": "🇨🇺",
+		"description": "🇨🇺 cuba "
+	},
+	" cape verde": {
+		"prefix": "emoji: cape verde",
+		"body": "🇨🇻",
+		"description": "🇨🇻 cape verde "
+	},
+	" curacao": {
+		"prefix": "emoji: curacao",
+		"body": "🇨🇼",
+		"description": "🇨🇼 curacao "
+	},
+	" christmas island": {
+		"prefix": "emoji: christmas island",
+		"body": "🇨🇽",
+		"description": "🇨🇽 christmas island "
+	},
+	" cyprus": {
+		"prefix": "emoji: cyprus",
+		"body": "🇨🇾",
+		"description": "🇨🇾 cyprus "
+	},
+	" czech republic": {
+		"prefix": "emoji: czech republic",
+		"body": "🇨🇿",
+		"description": "🇨🇿 czech republic "
+	},
+	" de - flag germany": {
+		"prefix": "emoji: de - flag germany",
+		"body": "🇩🇪",
+		"description": "🇩🇪 de - flag germany"
+	},
+	" djibouti": {
+		"prefix": "emoji: djibouti",
+		"body": "🇩🇯",
+		"description": "🇩🇯 djibouti "
+	},
+	" denmark": {
+		"prefix": "emoji: denmark",
+		"body": "🇩🇰",
+		"description": "🇩🇰 denmark "
+	},
+	" dominica": {
+		"prefix": "emoji: dominica",
+		"body": "🇩🇲",
+		"description": "🇩🇲 dominica "
+	},
+	" dominican republic": {
+		"prefix": "emoji: dominican republic",
+		"body": "🇩🇴",
+		"description": "🇩🇴 dominican republic "
+	},
+	" algeria": {
+		"prefix": "emoji: algeria",
+		"body": "🇩🇿",
+		"description": "🇩🇿 algeria "
+	},
+	" ecuador": {
+		"prefix": "emoji: ecuador",
+		"body": "🇪🇨",
+		"description": "🇪🇨 ecuador "
+	},
+	" estonia": {
+		"prefix": "emoji: estonia",
+		"body": "🇪🇪",
+		"description": "🇪🇪 estonia "
+	},
+	" egypt": {
+		"prefix": "emoji: egypt",
+		"body": "🇪🇬",
+		"description": "🇪🇬 egypt "
+	},
+	" western sahara": {
+		"prefix": "emoji: western sahara",
+		"body": "🇪🇭",
+		"description": "🇪🇭 western sahara "
+	},
+	" eritrea": {
+		"prefix": "emoji: eritrea",
+		"body": "🇪🇷",
+		"description": "🇪🇷 eritrea "
+	},
+	" es - spain": {
+		"prefix": "emoji: es - spain",
+		"body": "🇪🇸",
+		"description": "🇪🇸 es - spain"
+	},
+	" ethiopia": {
+		"prefix": "emoji: ethiopia",
+		"body": "🇪🇹",
+		"description": "🇪🇹 ethiopia "
+	},
+	" eu european union": {
+		"prefix": "emoji: eu european union",
+		"body": "🇪🇺",
+		"description": "🇪🇺 eu european union "
+	},
+	" finland": {
+		"prefix": "emoji: finland",
+		"body": "🇫🇮",
+		"description": "🇫🇮 finland "
+	},
+	" fiji": {
+		"prefix": "emoji: fiji",
+		"body": "🇫🇯",
+		"description": "🇫🇯 fiji "
+	},
+	" falkland islands": {
+		"prefix": "emoji: falkland islands",
+		"body": "🇫🇰",
+		"description": "🇫🇰 falkland islands "
+	},
+	" micronesia": {
+		"prefix": "emoji: micronesia",
+		"body": "🇫🇲",
+		"description": "🇫🇲 micronesia "
+	},
+	" faroe islands": {
+		"prefix": "emoji: faroe islands",
+		"body": "🇫🇴",
+		"description": "🇫🇴 faroe islands "
+	},
+	" fr - france french": {
+		"prefix": "emoji: fr - france french",
+		"body": "🇫🇷",
+		"description": "🇫🇷 fr - france french"
+	},
+	" gabon": {
+		"prefix": "emoji: gabon",
+		"body": "🇬🇦",
+		"description": "🇬🇦 gabon "
+	},
+	" gb uk - flag british": {
+		"prefix": "emoji: gb uk - flag british",
+		"body": "🇬🇧",
+		"description": "🇬🇧 gb uk - flag british"
+	},
+	" grenada": {
+		"prefix": "emoji: grenada",
+		"body": "🇬🇩",
+		"description": "🇬🇩 grenada "
+	},
+	" georgia": {
+		"prefix": "emoji: georgia",
+		"body": "🇬🇪",
+		"description": "🇬🇪 georgia "
+	},
+	" french guiana": {
+		"prefix": "emoji: french guiana",
+		"body": "🇬🇫",
+		"description": "🇬🇫 french guiana "
+	},
+	" guernsey": {
+		"prefix": "emoji: guernsey",
+		"body": "🇬🇬",
+		"description": "🇬🇬 guernsey "
+	},
+	" ghana": {
+		"prefix": "emoji: ghana",
+		"body": "🇬🇭",
+		"description": "🇬🇭 ghana "
+	},
+	" gibraltar": {
+		"prefix": "emoji: gibraltar",
+		"body": "🇬🇮",
+		"description": "🇬🇮 gibraltar "
+	},
+	" greenland": {
+		"prefix": "emoji: greenland",
+		"body": "🇬🇱",
+		"description": "🇬🇱 greenland "
+	},
+	" gambia": {
+		"prefix": "emoji: gambia",
+		"body": "🇬🇲",
+		"description": "🇬🇲 gambia "
+	},
+	" guinea": {
+		"prefix": "emoji: guinea",
+		"body": "🇬🇳",
+		"description": "🇬🇳 guinea "
+	},
+	" guadeloupe": {
+		"prefix": "emoji: guadeloupe",
+		"body": "🇬🇵",
+		"description": "🇬🇵 guadeloupe "
+	},
+	" equatorial guinea": {
+		"prefix": "emoji: equatorial guinea",
+		"body": "🇬🇶",
+		"description": "🇬🇶 equatorial guinea "
+	},
+	" greece": {
+		"prefix": "emoji: greece",
+		"body": "🇬🇷",
+		"description": "🇬🇷 greece "
+	},
+	" south georgia south sandwich islands": {
+		"prefix": "emoji: south georgia south sandwich islands",
+		"body": "🇬🇸",
+		"description": "🇬🇸 south georgia south sandwich islands "
+	},
+	" guatemala": {
+		"prefix": "emoji: guatemala",
+		"body": "🇬🇹",
+		"description": "🇬🇹 guatemala "
+	},
+	" guam": {
+		"prefix": "emoji: guam",
+		"body": "🇬🇺",
+		"description": "🇬🇺 guam "
+	},
+	" guinea bissau": {
+		"prefix": "emoji: guinea bissau",
+		"body": "🇬🇼",
+		"description": "🇬🇼 guinea bissau "
+	},
+	" guyana": {
+		"prefix": "emoji: guyana",
+		"body": "🇬🇾",
+		"description": "🇬🇾 guyana "
+	},
+	" hong kong": {
+		"prefix": "emoji: hong kong",
+		"body": "🇭🇰",
+		"description": "🇭🇰 hong kong "
+	},
+	" honduras": {
+		"prefix": "emoji: honduras",
+		"body": "🇭🇳",
+		"description": "🇭🇳 honduras "
+	},
+	" croatia": {
+		"prefix": "emoji: croatia",
+		"body": "🇭🇷",
+		"description": "🇭🇷 croatia "
+	},
+	" haiti": {
+		"prefix": "emoji: haiti",
+		"body": "🇭🇹",
+		"description": "🇭🇹 haiti "
+	},
+	" hungary": {
+		"prefix": "emoji: hungary",
+		"body": "🇭🇺",
+		"description": "🇭🇺 hungary "
+	},
+	" canary islands": {
+		"prefix": "emoji: canary islands",
+		"body": "🇮🇨",
+		"description": "🇮🇨 canary islands "
+	},
+	" indonesia": {
+		"prefix": "emoji: indonesia",
+		"body": "🇮🇩",
+		"description": "🇮🇩 indonesia "
+	},
+	" ireland": {
+		"prefix": "emoji: ireland",
+		"body": "🇮🇪",
+		"description": "🇮🇪 ireland "
+	},
+	" israel": {
+		"prefix": "emoji: israel",
+		"body": "🇮🇱",
+		"description": "🇮🇱 israel "
+	},
+	" isle of man": {
+		"prefix": "emoji: isle of man",
+		"body": "🇮🇲",
+		"description": "🇮🇲 isle of man "
+	},
+	" india": {
+		"prefix": "emoji: india",
+		"body": "🇮🇳",
+		"description": "🇮🇳 india "
+	},
+	" british indian ocean territory": {
+		"prefix": "emoji: british indian ocean territory",
+		"body": "🇮🇴",
+		"description": "🇮🇴 british indian ocean territory "
+	},
+	" iraq": {
+		"prefix": "emoji: iraq",
+		"body": "🇮🇶",
+		"description": "🇮🇶 iraq "
+	},
+	" iran": {
+		"prefix": "emoji: iran",
+		"body": "🇮🇷",
+		"description": "🇮🇷 iran "
+	},
+	" iceland": {
+		"prefix": "emoji: iceland",
+		"body": "🇮🇸",
+		"description": "🇮🇸 iceland "
+	},
+	" it - italy": {
+		"prefix": "emoji: it - italy",
+		"body": "🇮🇹",
+		"description": "🇮🇹 it - italy"
+	},
+	" jersey": {
+		"prefix": "emoji: jersey",
+		"body": "🇯🇪",
+		"description": "🇯🇪 jersey "
+	},
+	" jamaica": {
+		"prefix": "emoji: jamaica",
+		"body": "🇯🇲",
+		"description": "🇯🇲 jamaica "
+	},
+	" jordan": {
+		"prefix": "emoji: jordan",
+		"body": "🇯🇴",
+		"description": "🇯🇴 jordan "
+	},
+	" jp - japan": {
+		"prefix": "emoji: jp - japan",
+		"body": "🇯🇵",
+		"description": "🇯🇵 jp - japan"
+	},
+	" kenya": {
+		"prefix": "emoji: kenya",
+		"body": "🇰🇪",
+		"description": "🇰🇪 kenya "
+	},
+	" kyrgyzstan": {
+		"prefix": "emoji: kyrgyzstan",
+		"body": "🇰🇬",
+		"description": "🇰🇬 kyrgyzstan "
+	},
+	" cambodia": {
+		"prefix": "emoji: cambodia",
+		"body": "🇰🇭",
+		"description": "🇰🇭 cambodia "
+	},
+	" kiribati": {
+		"prefix": "emoji: kiribati",
+		"body": "🇰🇮",
+		"description": "🇰🇮 kiribati "
+	},
+	" comoros": {
+		"prefix": "emoji: comoros",
+		"body": "🇰🇲",
+		"description": "🇰🇲 comoros "
+	},
+	" st kitts nevis": {
+		"prefix": "emoji: st kitts nevis",
+		"body": "🇰🇳",
+		"description": "🇰🇳 st kitts nevis "
+	},
+	" north korea": {
+		"prefix": "emoji: north korea",
+		"body": "🇰🇵",
+		"description": "🇰🇵 north korea "
+	},
+	" kr - korea": {
+		"prefix": "emoji: kr - korea",
+		"body": "🇰🇷",
+		"description": "🇰🇷 kr - korea"
+	},
+	" kuwait": {
+		"prefix": "emoji: kuwait",
+		"body": "🇰🇼",
+		"description": "🇰🇼 kuwait "
+	},
+	" cayman islands": {
+		"prefix": "emoji: cayman islands",
+		"body": "🇰🇾",
+		"description": "🇰🇾 cayman islands "
+	},
+	" kazakhstan": {
+		"prefix": "emoji: kazakhstan",
+		"body": "🇰🇿",
+		"description": "🇰🇿 kazakhstan "
+	},
+	" laos": {
+		"prefix": "emoji: laos",
+		"body": "🇱🇦",
+		"description": "🇱🇦 laos "
+	},
+	" lebanon": {
+		"prefix": "emoji: lebanon",
+		"body": "🇱🇧",
+		"description": "🇱🇧 lebanon "
+	},
+	" st lucia": {
+		"prefix": "emoji: st lucia",
+		"body": "🇱🇨",
+		"description": "🇱🇨 st lucia "
+	},
+	" liechtenstein": {
+		"prefix": "emoji: liechtenstein",
+		"body": "🇱🇮",
+		"description": "🇱🇮 liechtenstein "
+	},
+	" sri lanka": {
+		"prefix": "emoji: sri lanka",
+		"body": "🇱🇰",
+		"description": "🇱🇰 sri lanka "
+	},
+	" liberia": {
+		"prefix": "emoji: liberia",
+		"body": "🇱🇷",
+		"description": "🇱🇷 liberia "
+	},
+	" lesotho": {
+		"prefix": "emoji: lesotho",
+		"body": "🇱🇸",
+		"description": "🇱🇸 lesotho "
+	},
+	" lithuania": {
+		"prefix": "emoji: lithuania",
+		"body": "🇱🇹",
+		"description": "🇱🇹 lithuania "
+	},
+	" luxembourg": {
+		"prefix": "emoji: luxembourg",
+		"body": "🇱🇺",
+		"description": "🇱🇺 luxembourg "
+	},
+	" latvia": {
+		"prefix": "emoji: latvia",
+		"body": "🇱🇻",
+		"description": "🇱🇻 latvia "
+	},
+	" libya": {
+		"prefix": "emoji: libya",
+		"body": "🇱🇾",
+		"description": "🇱🇾 libya "
+	},
+	" morocco": {
+		"prefix": "emoji: morocco",
+		"body": "🇲🇦",
+		"description": "🇲🇦 morocco "
+	},
+	" monaco": {
+		"prefix": "emoji: monaco",
+		"body": "🇲🇨",
+		"description": "🇲🇨 monaco "
+	},
+	" moldova": {
+		"prefix": "emoji: moldova",
+		"body": "🇲🇩",
+		"description": "🇲🇩 moldova "
+	},
+	" montenegro": {
+		"prefix": "emoji: montenegro",
+		"body": "🇲🇪",
+		"description": "🇲🇪 montenegro "
+	},
+	" madagascar": {
+		"prefix": "emoji: madagascar",
+		"body": "🇲🇬",
+		"description": "🇲🇬 madagascar "
+	},
+	" marshall islands": {
+		"prefix": "emoji: marshall islands",
+		"body": "🇲🇭",
+		"description": "🇲🇭 marshall islands "
+	},
+	" macedonia": {
+		"prefix": "emoji: macedonia",
+		"body": "🇲🇰",
+		"description": "🇲🇰 macedonia "
+	},
+	" mali": {
+		"prefix": "emoji: mali",
+		"body": "🇲🇱",
+		"description": "🇲🇱 mali "
+	},
+	" myanmar - burma": {
+		"prefix": "emoji: myanmar - burma",
+		"body": "🇲🇲",
+		"description": "🇲🇲 myanmar - burma"
+	},
+	" mongolia": {
+		"prefix": "emoji: mongolia",
+		"body": "🇲🇳",
+		"description": "🇲🇳 mongolia "
+	},
+	" macau": {
+		"prefix": "emoji: macau",
+		"body": "🇲🇴",
+		"description": "🇲🇴 macau "
+	},
+	" northern mariana islands": {
+		"prefix": "emoji: northern mariana islands",
+		"body": "🇲🇵",
+		"description": "🇲🇵 northern mariana islands "
+	},
+	" martinique": {
+		"prefix": "emoji: martinique",
+		"body": "🇲🇶",
+		"description": "🇲🇶 martinique "
+	},
+	" mauritania": {
+		"prefix": "emoji: mauritania",
+		"body": "🇲🇷",
+		"description": "🇲🇷 mauritania "
+	},
+	" montserrat": {
+		"prefix": "emoji: montserrat",
+		"body": "🇲🇸",
+		"description": "🇲🇸 montserrat "
+	},
+	" malta": {
+		"prefix": "emoji: malta",
+		"body": "🇲🇹",
+		"description": "🇲🇹 malta "
+	},
+	" mauritius": {
+		"prefix": "emoji: mauritius",
+		"body": "🇲🇺",
+		"description": "🇲🇺 mauritius "
+	},
+	" maldives": {
+		"prefix": "emoji: maldives",
+		"body": "🇲🇻",
+		"description": "🇲🇻 maldives "
+	},
+	" malawi": {
+		"prefix": "emoji: malawi",
+		"body": "🇲🇼",
+		"description": "🇲🇼 malawi "
+	},
+	" mexico": {
+		"prefix": "emoji: mexico",
+		"body": "🇲🇽",
+		"description": "🇲🇽 mexico "
+	},
+	" malaysia": {
+		"prefix": "emoji: malaysia",
+		"body": "🇲🇾",
+		"description": "🇲🇾 malaysia "
+	},
+	" mozambique": {
+		"prefix": "emoji: mozambique",
+		"body": "🇲🇿",
+		"description": "🇲🇿 mozambique "
+	},
+	" namibia": {
+		"prefix": "emoji: namibia",
+		"body": "🇳🇦",
+		"description": "🇳🇦 namibia "
+	},
+	" new caledonia": {
+		"prefix": "emoji: new caledonia",
+		"body": "🇳🇨",
+		"description": "🇳🇨 new caledonia "
+	},
+	" niger": {
+		"prefix": "emoji: niger",
+		"body": "🇳🇪",
+		"description": "🇳🇪 niger "
+	},
+	" norfolk island": {
+		"prefix": "emoji: norfolk island",
+		"body": "🇳🇫",
+		"description": "🇳🇫 norfolk island "
+	},
+	" nigeria": {
+		"prefix": "emoji: nigeria",
+		"body": "🇳🇬",
+		"description": "🇳🇬 nigeria "
+	},
+	" nicaragua": {
+		"prefix": "emoji: nicaragua",
+		"body": "🇳🇮",
+		"description": "🇳🇮 nicaragua "
+	},
+	" netherlands": {
+		"prefix": "emoji: netherlands",
+		"body": "🇳🇱",
+		"description": "🇳🇱 netherlands "
+	},
+	" norway": {
+		"prefix": "emoji: norway",
+		"body": "🇳🇴",
+		"description": "🇳🇴 norway "
+	},
+	" nepal": {
+		"prefix": "emoji: nepal",
+		"body": "🇳🇵",
+		"description": "🇳🇵 nepal "
+	},
+	" nauru": {
+		"prefix": "emoji: nauru",
+		"body": "🇳🇷",
+		"description": "🇳🇷 nauru "
+	},
+	" niue": {
+		"prefix": "emoji: niue",
+		"body": "🇳🇺",
+		"description": "🇳🇺 niue "
+	},
+	" new zealand": {
+		"prefix": "emoji: new zealand",
+		"body": "🇳🇿",
+		"description": "🇳🇿 new zealand "
+	},
+	" oman": {
+		"prefix": "emoji: oman",
+		"body": "🇴🇲",
+		"description": "🇴🇲 oman "
+	},
+	" panama": {
+		"prefix": "emoji: panama",
+		"body": "🇵🇦",
+		"description": "🇵🇦 panama "
+	},
+	" peru": {
+		"prefix": "emoji: peru",
+		"body": "🇵🇪",
+		"description": "🇵🇪 peru "
+	},
+	" french polynesia": {
+		"prefix": "emoji: french polynesia",
+		"body": "🇵🇫",
+		"description": "🇵🇫 french polynesia "
+	},
+	" papua new guinea": {
+		"prefix": "emoji: papua new guinea",
+		"body": "🇵🇬",
+		"description": "🇵🇬 papua new guinea "
+	},
+	" philippines": {
+		"prefix": "emoji: philippines",
+		"body": "🇵🇭",
+		"description": "🇵🇭 philippines "
+	},
+	" pakistan": {
+		"prefix": "emoji: pakistan",
+		"body": "🇵🇰",
+		"description": "🇵🇰 pakistan "
+	},
+	" poland": {
+		"prefix": "emoji: poland",
+		"body": "🇵🇱",
+		"description": "🇵🇱 poland "
+	},
+	" st pierre miquelon": {
+		"prefix": "emoji: st pierre miquelon",
+		"body": "🇵🇲",
+		"description": "🇵🇲 st pierre miquelon "
+	},
+	" pitcairn islands": {
+		"prefix": "emoji: pitcairn islands",
+		"body": "🇵🇳",
+		"description": "🇵🇳 pitcairn islands "
+	},
+	" puerto rico": {
+		"prefix": "emoji: puerto rico",
+		"body": "🇵🇷",
+		"description": "🇵🇷 puerto rico "
+	},
+	" palestinian territories": {
+		"prefix": "emoji: palestinian territories",
+		"body": "🇵🇸",
+		"description": "🇵🇸 palestinian territories "
+	},
+	" portugal": {
+		"prefix": "emoji: portugal",
+		"body": "🇵🇹",
+		"description": "🇵🇹 portugal "
+	},
+	" palau": {
+		"prefix": "emoji: palau",
+		"body": "🇵🇼",
+		"description": "🇵🇼 palau "
+	},
+	" paraguay": {
+		"prefix": "emoji: paraguay",
+		"body": "🇵🇾",
+		"description": "🇵🇾 paraguay "
+	},
+	" qatar": {
+		"prefix": "emoji: qatar",
+		"body": "🇶🇦",
+		"description": "🇶🇦 qatar "
+	},
+	" reunion": {
+		"prefix": "emoji: reunion",
+		"body": "🇷🇪",
+		"description": "🇷🇪 reunion "
+	},
+	" romania": {
+		"prefix": "emoji: romania",
+		"body": "🇷🇴",
+		"description": "🇷🇴 romania "
+	},
+	" serbia": {
+		"prefix": "emoji: serbia",
+		"body": "🇷🇸",
+		"description": "🇷🇸 serbia "
+	},
+	" ru - russia": {
+		"prefix": "emoji: ru - russia",
+		"body": "🇷🇺",
+		"description": "🇷🇺 ru - russia"
+	},
+	" rwanda": {
+		"prefix": "emoji: rwanda",
+		"body": "🇷🇼",
+		"description": "🇷🇼 rwanda "
+	},
+	" saudi arabia": {
+		"prefix": "emoji: saudi arabia",
+		"body": "🇸🇦",
+		"description": "🇸🇦 saudi arabia "
+	},
+	" solomon islands": {
+		"prefix": "emoji: solomon islands",
+		"body": "🇸🇧",
+		"description": "🇸🇧 solomon islands "
+	},
+	" seychelles": {
+		"prefix": "emoji: seychelles",
+		"body": "🇸🇨",
+		"description": "🇸🇨 seychelles "
+	},
+	" sudan": {
+		"prefix": "emoji: sudan",
+		"body": "🇸🇩",
+		"description": "🇸🇩 sudan "
+	},
+	" sweden": {
+		"prefix": "emoji: sweden",
+		"body": "🇸🇪",
+		"description": "🇸🇪 sweden "
+	},
+	" singapore": {
+		"prefix": "emoji: singapore",
+		"body": "🇸🇬",
+		"description": "🇸🇬 singapore "
+	},
+	" st helena": {
+		"prefix": "emoji: st helena",
+		"body": "🇸🇭",
+		"description": "🇸🇭 st helena "
+	},
+	" slovenia": {
+		"prefix": "emoji: slovenia",
+		"body": "🇸🇮",
+		"description": "🇸🇮 slovenia "
+	},
+	" slovakia": {
+		"prefix": "emoji: slovakia",
+		"body": "🇸🇰",
+		"description": "🇸🇰 slovakia "
+	},
+	" sierra leone": {
+		"prefix": "emoji: sierra leone",
+		"body": "🇸🇱",
+		"description": "🇸🇱 sierra leone "
+	},
+	" san marino": {
+		"prefix": "emoji: san marino",
+		"body": "🇸🇲",
+		"description": "🇸🇲 san marino "
+	},
+	" senegal": {
+		"prefix": "emoji: senegal",
+		"body": "🇸🇳",
+		"description": "🇸🇳 senegal "
+	},
+	" somalia": {
+		"prefix": "emoji: somalia",
+		"body": "🇸🇴",
+		"description": "🇸🇴 somalia "
+	},
+	" suriname": {
+		"prefix": "emoji: suriname",
+		"body": "🇸🇷",
+		"description": "🇸🇷 suriname "
+	},
+	" south sudan": {
+		"prefix": "emoji: south sudan",
+		"body": "🇸🇸",
+		"description": "🇸🇸 south sudan "
+	},
+	" sao tome principe": {
+		"prefix": "emoji: sao tome principe",
+		"body": "🇸🇹",
+		"description": "🇸🇹 sao tome principe "
+	},
+	" el salvador": {
+		"prefix": "emoji: el salvador",
+		"body": "🇸🇻",
+		"description": "🇸🇻 el salvador "
+	},
+	" sint maarten": {
+		"prefix": "emoji: sint maarten",
+		"body": "🇸🇽",
+		"description": "🇸🇽 sint maarten "
+	},
+	" syria": {
+		"prefix": "emoji: syria",
+		"body": "🇸🇾",
+		"description": "🇸🇾 syria "
+	},
+	" swaziland": {
+		"prefix": "emoji: swaziland",
+		"body": "🇸🇿",
+		"description": "🇸🇿 swaziland "
+	},
+	" turks caicos islands": {
+		"prefix": "emoji: turks caicos islands",
+		"body": "🇹🇨",
+		"description": "🇹🇨 turks caicos islands "
+	},
+	" chad": {
+		"prefix": "emoji: chad",
+		"body": "🇹🇩",
+		"description": "🇹🇩 chad "
+	},
+	" french southern territories": {
+		"prefix": "emoji: french southern territories",
+		"body": "🇹🇫",
+		"description": "🇹🇫 french southern territories "
+	},
+	" togo": {
+		"prefix": "emoji: togo",
+		"body": "🇹🇬",
+		"description": "🇹🇬 togo "
+	},
+	" thailand": {
+		"prefix": "emoji: thailand",
+		"body": "🇹🇭",
+		"description": "🇹🇭 thailand "
+	},
+	" tajikistan": {
+		"prefix": "emoji: tajikistan",
+		"body": "🇹🇯",
+		"description": "🇹🇯 tajikistan "
+	},
+	" tokelau": {
+		"prefix": "emoji: tokelau",
+		"body": "🇹🇰",
+		"description": "🇹🇰 tokelau "
+	},
+	" timor leste": {
+		"prefix": "emoji: timor leste",
+		"body": "🇹🇱",
+		"description": "🇹🇱 timor leste "
+	},
+	" turkmenistan": {
+		"prefix": "emoji: turkmenistan",
+		"body": "🇹🇲",
+		"description": "🇹🇲 turkmenistan "
+	},
+	" tunisia": {
+		"prefix": "emoji: tunisia",
+		"body": "🇹🇳",
+		"description": "🇹🇳 tunisia "
+	},
+	" tonga": {
+		"prefix": "emoji: tonga",
+		"body": "🇹🇴",
+		"description": "🇹🇴 tonga "
+	},
+	" tr - turkey": {
+		"prefix": "emoji: tr - turkey",
+		"body": "🇹🇷",
+		"description": "🇹🇷 tr - turkey"
+	},
+	" trinidad tobago": {
+		"prefix": "emoji: trinidad tobago",
+		"body": "🇹🇹",
+		"description": "🇹🇹 trinidad tobago "
+	},
+	" tuvalu": {
+		"prefix": "emoji: tuvalu",
+		"body": "🇹🇻",
+		"description": "🇹🇻 tuvalu "
+	},
+	" taiwan": {
+		"prefix": "emoji: taiwan",
+		"body": "🇹🇼",
+		"description": "🇹🇼 taiwan "
+	},
+	" tanzania": {
+		"prefix": "emoji: tanzania",
+		"body": "🇹🇿",
+		"description": "🇹🇿 tanzania "
+	},
+	" ukraine": {
+		"prefix": "emoji: ukraine",
+		"body": "🇺🇦",
+		"description": "🇺🇦 ukraine "
+	},
+	" uganda": {
+		"prefix": "emoji: uganda",
+		"body": "🇺🇬",
+		"description": "🇺🇬 uganda "
+	},
+	" us - flag united america": {
+		"prefix": "emoji: us - flag united america",
+		"body": "🇺🇸",
+		"description": "🇺🇸 us - flag united america"
+	},
+	" uruguay": {
+		"prefix": "emoji: uruguay",
+		"body": "🇺🇾",
+		"description": "🇺🇾 uruguay "
+	},
+	" uzbekistan": {
+		"prefix": "emoji: uzbekistan",
+		"body": "🇺🇿",
+		"description": "🇺🇿 uzbekistan "
+	},
+	" vatican city": {
+		"prefix": "emoji: vatican city",
+		"body": "🇻🇦",
+		"description": "🇻🇦 vatican city "
+	},
+	" st vincent grenadines": {
+		"prefix": "emoji: st vincent grenadines",
+		"body": "🇻🇨",
+		"description": "🇻🇨 st vincent grenadines "
+	},
+	" venezuela": {
+		"prefix": "emoji: venezuela",
+		"body": "🇻🇪",
+		"description": "🇻🇪 venezuela "
+	},
+	" british virgin islands": {
+		"prefix": "emoji: british virgin islands",
+		"body": "🇻🇬",
+		"description": "🇻🇬 british virgin islands "
+	},
+	" us virgin islands": {
+		"prefix": "emoji: us virgin islands",
+		"body": "🇻🇮",
+		"description": "🇻🇮 us virgin islands "
+	},
+	" vietnam": {
+		"prefix": "emoji: vietnam",
+		"body": "🇻🇳",
+		"description": "🇻🇳 vietnam "
+	},
+	" vanuatu": {
+		"prefix": "emoji: vanuatu",
+		"body": "🇻🇺",
+		"description": "🇻🇺 vanuatu "
+	},
+	" wallis futuna": {
+		"prefix": "emoji: wallis futuna",
+		"body": "🇼🇫",
+		"description": "🇼🇫 wallis futuna "
+	},
+	" samoa": {
+		"prefix": "emoji: samoa",
+		"body": "🇼🇸",
+		"description": "🇼🇸 samoa "
+	},
+	" kosovo": {
+		"prefix": "emoji: kosovo",
+		"body": "🇽🇰",
+		"description": "🇽🇰 kosovo "
+	},
+	" yemen": {
+		"prefix": "emoji: yemen",
+		"body": "🇾🇪",
+		"description": "🇾🇪 yemen "
+	},
+	" mayotte": {
+		"prefix": "emoji: mayotte",
+		"body": "🇾🇹",
+		"description": "🇾🇹 mayotte "
+	},
+	" south africa": {
+		"prefix": "emoji: south africa",
+		"body": "🇿🇦",
+		"description": "🇿🇦 south africa "
+	},
+	" zambia": {
+		"prefix": "emoji: zambia",
+		"body": "🇿🇲",
+		"description": "🇿🇲 zambia "
+	},
+	" zimbabwe": {
+		"prefix": "emoji: zimbabwe",
+		"body": "🇿🇼",
+		"description": "🇿🇼 zimbabwe "
+	},
+	"ideograph advantage": {
+		"prefix": "emoji:ideograph advantage",
+		"body": "🉐",
+		"description": "🉐 ideograph advantage "
+	},
+	"night with stars": {
+		"prefix": "emoji:night with stars",
+		"body": "🌃",
+		"description": "🌃 night with stars "
+	},
+	"sunrise over mountains": {
+		"prefix": "emoji:sunrise over mountains",
+		"body": "🌄",
+		"description": "🌄 sunrise over mountains "
+	},
+	"bridge at night": {
+		"prefix": "emoji:bridge at night",
+		"body": "🌉",
+		"description": "🌉 bridge at night "
+	},
+	"earth americas - globe world international": {
+		"prefix": "emoji:earth americas - globe world international",
+		"body": "🌎",
+		"description": "🌎 earth americas - globe world international"
+	},
+	"globe with meridians - world global international": {
+		"prefix": "emoji:globe with meridians - world global international",
+		"body": "🌐",
+		"description": "🌐 globe with meridians - world global international"
+	},
+	"new moon": {
+		"prefix": "emoji:new moon",
+		"body": "🌑",
+		"description": "🌑 new moon "
+	},
+	"waxing crescent moon": {
+		"prefix": "emoji:waxing crescent moon",
+		"body": "🌒",
+		"description": "🌒 waxing crescent moon "
+	},
+	"first quarter moon": {
+		"prefix": "emoji:first quarter moon",
+		"body": "🌓",
+		"description": "🌓 first quarter moon "
+	},
+	"moon waxing gibbous moon": {
+		"prefix": "emoji:moon waxing gibbous moon",
+		"body": "🌔",
+		"description": "🌔 moon waxing gibbous moon "
+	},
+	"full moon": {
+		"prefix": "emoji:full moon",
+		"body": "🌕",
+		"description": "🌕 full moon "
+	},
+	"waning gibbous moon": {
+		"prefix": "emoji:waning gibbous moon",
+		"body": "🌖",
+		"description": "🌖 waning gibbous moon "
+	},
+	"last quarter moon": {
+		"prefix": "emoji:last quarter moon",
+		"body": "🌗",
+		"description": "🌗 last quarter moon "
+	},
+	"waning crescent moon": {
+		"prefix": "emoji:waning crescent moon",
+		"body": "🌘",
+		"description": "🌘 waning crescent moon "
+	},
+	"new moon with face": {
+		"prefix": "emoji:new moon with face",
+		"body": "🌚",
+		"description": "🌚 new moon with face "
+	},
+	"first quarter moon with face": {
+		"prefix": "emoji:first quarter moon with face",
+		"body": "🌛",
+		"description": "🌛 first quarter moon with face "
+	},
+	"last quarter moon with face": {
+		"prefix": "emoji:last quarter moon with face",
+		"body": "🌜",
+		"description": "🌜 last quarter moon with face "
+	},
+	"full moon with face": {
+		"prefix": "emoji:full moon with face",
+		"body": "🌝",
+		"description": "🌝 full moon with face "
+	},
+	"sun with face - summer": {
+		"prefix": "emoji:sun with face - summer",
+		"body": "🌞",
+		"description": "🌞 sun with face - summer"
+	},
+	"sun behind small cloud": {
+		"prefix": "emoji:sun behind small cloud",
+		"body": "🌤",
+		"description": "🌤 sun behind small cloud "
+	},
+	"sun behind large cloud": {
+		"prefix": "emoji:sun behind large cloud",
+		"body": "🌥",
+		"description": "🌥 sun behind large cloud "
+	},
+	"sun behind rain cloud": {
+		"prefix": "emoji:sun behind rain cloud",
+		"body": "🌦",
+		"description": "🌦 sun behind rain cloud "
+	},
+	"cloud with rain": {
+		"prefix": "emoji:cloud with rain",
+		"body": "🌧",
+		"description": "🌧 cloud with rain "
+	},
+	"cloud with snow": {
+		"prefix": "emoji:cloud with snow",
+		"body": "🌨",
+		"description": "🌨 cloud with snow "
+	},
+	"tornado": {
+		"prefix": "emoji:tornado",
+		"body": "🌪",
+		"description": "🌪 tornado "
+	},
+	"evergreen tree - wood": {
+		"prefix": "emoji:evergreen tree - wood",
+		"body": "🌲",
+		"description": "🌲 evergreen tree - wood"
+	},
+	"deciduous tree - wood": {
+		"prefix": "emoji:deciduous tree - wood",
+		"body": "🌳",
+		"description": "🌳 deciduous tree - wood"
+	},
+	"hot pepper - spicy": {
+		"prefix": "emoji:hot pepper - spicy",
+		"body": "🌶",
+		"description": "🌶 hot pepper - spicy"
+	},
+	"four leaf clover - luck": {
+		"prefix": "emoji:four leaf clover - luck",
+		"body": "🍀",
+		"description": "🍀 four leaf clover - luck"
+	},
+	"maple leaf - canada": {
+		"prefix": "emoji:maple leaf - canada",
+		"body": "🍁",
+		"description": "🍁 maple leaf - canada"
+	},
+	"meat on bone": {
+		"prefix": "emoji:meat on bone",
+		"body": "🍖",
+		"description": "🍖 meat on bone "
+	},
+	"poultry leg - meat chicken": {
+		"prefix": "emoji:poultry leg - meat chicken",
+		"body": "🍗",
+		"description": "🍗 poultry leg - meat chicken"
+	},
+	"ice cream": {
+		"prefix": "emoji:ice cream",
+		"body": "🍨",
+		"description": "🍨 ice cream "
+	},
+	"doughnut": {
+		"prefix": "emoji:doughnut",
+		"body": "🍩",
+		"description": "🍩 doughnut "
+	},
+	"chocolate bar": {
+		"prefix": "emoji:chocolate bar",
+		"body": "🍫",
+		"description": "🍫 chocolate bar "
+	},
+	"honey pot": {
+		"prefix": "emoji:honey pot",
+		"body": "🍯",
+		"description": "🍯 honey pot "
+	},
+	"fork and knife - cutlery": {
+		"prefix": "emoji:fork and knife - cutlery",
+		"body": "🍴",
+		"description": "🍴 fork and knife - cutlery"
+	},
+	"plate with cutlery - dining dinner": {
+		"prefix": "emoji:plate with cutlery - dining dinner",
+		"body": "🍽",
+		"description": "🍽 plate with cutlery - dining dinner"
+	},
+	"jack o lantern - halloween": {
+		"prefix": "emoji:jack o lantern - halloween",
+		"body": "🎃",
+		"description": "🎃 jack o lantern - halloween"
+	},
+	"christmas tree": {
+		"prefix": "emoji:christmas tree",
+		"body": "🎄",
+		"description": "🎄 christmas tree "
+	},
+	"tada - hooray party": {
+		"prefix": "emoji:tada - hooray party",
+		"body": "🎉",
+		"description": "🎉 tada - hooray party"
+	},
+	"confetti ball": {
+		"prefix": "emoji:confetti ball",
+		"body": "🎊",
+		"description": "🎊 confetti ball "
+	},
+	"school satchel": {
+		"prefix": "emoji:school satchel",
+		"body": "🎒",
+		"description": "🎒 school satchel "
+	},
+	"mortar board - education college university graduation": {
+		"prefix": "emoji:mortar board - education college university graduation",
+		"body": "🎓",
+		"description": "🎓 mortar board - education college university graduation"
+	},
+	"studio microphone - podcast": {
+		"prefix": "emoji:studio microphone - podcast",
+		"body": "🎙",
+		"description": "🎙 studio microphone - podcast"
+	},
+	"film strip": {
+		"prefix": "emoji:film strip",
+		"body": "🎞",
+		"description": "🎞 film strip "
+	},
+	"carousel horse": {
+		"prefix": "emoji:carousel horse",
+		"body": "🎠",
+		"description": "🎠 carousel horse "
+	},
+	"fishing pole and fish": {
+		"prefix": "emoji:fishing pole and fish",
+		"body": "🎣",
+		"description": "🎣 fishing pole and fish "
+	},
+	"movie camera - film video": {
+		"prefix": "emoji:movie camera - film video",
+		"body": "🎥",
+		"description": "🎥 movie camera - film video"
+	},
+	"performing arts - theater drama": {
+		"prefix": "emoji:performing arts - theater drama",
+		"body": "🎭",
+		"description": "🎭 performing arts - theater drama"
+	},
+	"game die - dice gambling": {
+		"prefix": "emoji:game die - dice gambling",
+		"body": "🎲",
+		"description": "🎲 game die - dice gambling"
+	},
+	"flower playing cards": {
+		"prefix": "emoji:flower playing cards",
+		"body": "🎴",
+		"description": "🎴 flower playing cards "
+	},
+	"musical note": {
+		"prefix": "emoji:musical note",
+		"body": "🎵",
+		"description": "🎵 musical note "
+	},
+	"musical keyboard - piano": {
+		"prefix": "emoji:musical keyboard - piano",
+		"body": "🎹",
+		"description": "🎹 musical keyboard - piano"
+	},
+	"musical score": {
+		"prefix": "emoji:musical score",
+		"body": "🎼",
+		"description": "🎼 musical score "
+	},
+	"running shirt with sash - marathon": {
+		"prefix": "emoji:running shirt with sash - marathon",
+		"body": "🎽",
+		"description": "🎽 running shirt with sash - marathon"
+	},
+	"medal sports - gold winner": {
+		"prefix": "emoji:medal sports - gold winner",
+		"body": "🏅",
+		"description": "🏅 medal sports - gold winner"
+	},
+	"rugby football": {
+		"prefix": "emoji:rugby football",
+		"body": "🏉",
+		"description": "🏉 rugby football "
+	},
+	"swimming man swimmer": {
+		"prefix": "emoji:swimming man swimmer",
+		"body": "🏊",
+		"description": "🏊 swimming man swimmer "
+	},
+	"weight lifting man - gym workout": {
+		"prefix": "emoji:weight lifting man - gym workout",
+		"body": "🏋",
+		"description": "🏋 weight lifting man - gym workout"
+	},
+	"racing car": {
+		"prefix": "emoji:racing car",
+		"body": "🏎",
+		"description": "🏎 racing car "
+	},
+	"field hockey": {
+		"prefix": "emoji:field hockey",
+		"body": "🏑",
+		"description": "🏑 field hockey "
+	},
+	"ping pong": {
+		"prefix": "emoji:ping pong",
+		"body": "🏓",
+		"description": "🏓 ping pong "
+	},
+	"mountain snow": {
+		"prefix": "emoji:mountain snow",
+		"body": "🏔",
+		"description": "🏔 mountain snow "
+	},
+	"derelict house": {
+		"prefix": "emoji:derelict house",
+		"body": "🏚",
+		"description": "🏚 derelict house "
+	},
+	"house with garden": {
+		"prefix": "emoji:house with garden",
+		"body": "🏡",
+		"description": "🏡 house with garden "
+	},
+	"water buffalo": {
+		"prefix": "emoji:water buffalo",
+		"body": "🐃",
+		"description": "🐃 water buffalo "
+	},
+	"monkey": {
+		"prefix": "emoji:monkey",
+		"body": "🐒",
+		"description": "🐒 monkey "
+	},
+	"hatching chick": {
+		"prefix": "emoji:hatching chick",
+		"body": "🐣",
+		"description": "🐣 hatching chick "
+	},
+	"baby chick": {
+		"prefix": "emoji:baby chick",
+		"body": "🐤",
+		"description": "🐤 baby chick "
+	},
+	"hatched chick": {
+		"prefix": "emoji:hatched chick",
+		"body": "🐥",
+		"description": "🐥 hatched chick "
+	},
+	"dromedary camel - desert": {
+		"prefix": "emoji:dromedary camel - desert",
+		"body": "🐪",
+		"description": "🐪 dromedary camel - desert"
+	},
+	"dragon face": {
+		"prefix": "emoji:dragon face",
+		"body": "🐲",
+		"description": "🐲 dragon face "
+	},
+	"panda face": {
+		"prefix": "emoji:panda face",
+		"body": "🐼",
+		"description": "🐼 panda face "
+	},
+	"+1 thumbsup - approve ok": {
+		"prefix": "emoji:+1 thumbsup - approve ok",
+		"body": "👍",
+		"description": "👍 +1 thumbsup - approve ok"
+	},
+	"-1 thumbsdown - disapprove bury": {
+		"prefix": "emoji:-1 thumbsdown - disapprove bury",
+		"body": "👎",
+		"description": "👎 -1 thumbsdown - disapprove bury"
+	},
+	"bust in silhouette - user": {
+		"prefix": "emoji:bust in silhouette - user",
+		"body": "👤",
+		"description": "👤 bust in silhouette - user"
+	},
+	"busts in silhouette - users group team": {
+		"prefix": "emoji:busts in silhouette - users group team",
+		"body": "👥",
+		"description": "👥 busts in silhouette - users group team"
+	},
+	"couple - date": {
+		"prefix": "emoji:couple - date",
+		"body": "👫",
+		"description": "👫 couple - date"
+	},
+	"two men holding hands - couple date": {
+		"prefix": "emoji:two men holding hands - couple date",
+		"body": "👬",
+		"description": "👬 two men holding hands - couple date"
+	},
+	"two women holding hands - couple date": {
+		"prefix": "emoji:two women holding hands - couple date",
+		"body": "👭",
+		"description": "👭 two women holding hands - couple date"
+	},
+	"bride with veil - marriage wedding": {
+		"prefix": "emoji:bride with veil - marriage wedding",
+		"body": "👰",
+		"description": "👰 bride with veil - marriage wedding"
+	},
+	"man with gua pi mao": {
+		"prefix": "emoji:man with gua pi mao",
+		"body": "👲",
+		"description": "👲 man with gua pi mao "
+	},
+	"man with turban": {
+		"prefix": "emoji:man with turban",
+		"body": "👳",
+		"description": "👳 man with turban "
+	},
+	"older man": {
+		"prefix": "emoji:older man",
+		"body": "👴",
+		"description": "👴 older man "
+	},
+	"older woman": {
+		"prefix": "emoji:older woman",
+		"body": "👵",
+		"description": "👵 older woman "
+	},
+	"japanese ogre - monster": {
+		"prefix": "emoji:japanese ogre - monster",
+		"body": "👹",
+		"description": "👹 japanese ogre - monster"
+	},
+	"japanese goblin": {
+		"prefix": "emoji:japanese goblin",
+		"body": "👺",
+		"description": "👺 japanese goblin "
+	},
+	"tipping hand woman information desk person sassy woman": {
+		"prefix": "emoji:tipping hand woman information desk person sassy woman",
+		"body": "💁",
+		"description": "💁 tipping hand woman information desk person sassy woman "
+	},
+	"guardsman": {
+		"prefix": "emoji:guardsman",
+		"body": "💂",
+		"description": "💂 guardsman "
+	},
+	"couplekiss man woman": {
+		"prefix": "emoji:couplekiss man woman",
+		"body": "💏",
+		"description": "💏 couplekiss man woman "
+	},
+	"couple with heart woman man couple with heart": {
+		"prefix": "emoji:couple with heart woman man couple with heart",
+		"body": "💑",
+		"description": "💑 couple with heart woman man couple with heart "
+	},
+	"diamond shape with a dot inside": {
+		"prefix": "emoji:diamond shape with a dot inside",
+		"body": "💠",
+		"description": "💠 diamond shape with a dot inside "
+	},
+	"muscle - flex bicep strong workout": {
+		"prefix": "emoji:muscle - flex bicep strong workout",
+		"body": "💪",
+		"description": "💪 muscle - flex bicep strong workout"
+	},
+	"dizzy - star": {
+		"prefix": "emoji:dizzy - star",
+		"body": "💫",
+		"description": "💫 dizzy - star"
+	},
+	"speech balloon - comment": {
+		"prefix": "emoji:speech balloon - comment",
+		"body": "💬",
+		"description": "💬 speech balloon - comment"
+	},
+	"thought balloon - thinking": {
+		"prefix": "emoji:thought balloon - thinking",
+		"body": "💭",
+		"description": "💭 thought balloon - thinking"
+	},
+	"money with wings - dollar": {
+		"prefix": "emoji:money with wings - dollar",
+		"body": "💸",
+		"description": "💸 money with wings - dollar"
+	},
+	"file folder - directory": {
+		"prefix": "emoji:file folder - directory",
+		"body": "📁",
+		"description": "📁 file folder - directory"
+	},
+	"open file folder": {
+		"prefix": "emoji:open file folder",
+		"body": "📂",
+		"description": "📂 open file folder "
+	},
+	"page with curl": {
+		"prefix": "emoji:page with curl",
+		"body": "📃",
+		"description": "📃 page with curl "
+	},
+	"page facing up - document": {
+		"prefix": "emoji:page facing up - document",
+		"body": "📄",
+		"description": "📄 page facing up - document"
+	},
+	"chart with upwards trend - graph metrics": {
+		"prefix": "emoji:chart with upwards trend - graph metrics",
+		"body": "📈",
+		"description": "📈 chart with upwards trend - graph metrics"
+	},
+	"chart with downwards trend - graph metrics": {
+		"prefix": "emoji:chart with downwards trend - graph metrics",
+		"body": "📉",
+		"description": "📉 chart with downwards trend - graph metrics"
+	},
+	"straight ruler": {
+		"prefix": "emoji:straight ruler",
+		"body": "📏",
+		"description": "📏 straight ruler "
+	},
+	"triangular ruler": {
+		"prefix": "emoji:triangular ruler",
+		"body": "📐",
+		"description": "📐 triangular ruler "
+	},
+	"notebook with decorative cover": {
+		"prefix": "emoji:notebook with decorative cover",
+		"body": "📔",
+		"description": "📔 notebook with decorative cover "
+	},
+	"satellite - signal": {
+		"prefix": "emoji:satellite - signal",
+		"body": "📡",
+		"description": "📡 satellite - signal"
+	},
+	"outbox tray": {
+		"prefix": "emoji:outbox tray",
+		"body": "📤",
+		"description": "📤 outbox tray "
+	},
+	"inbox tray": {
+		"prefix": "emoji:inbox tray",
+		"body": "📥",
+		"description": "📥 inbox tray "
+	},
+	"envelope with arrow": {
+		"prefix": "emoji:envelope with arrow",
+		"body": "📩",
+		"description": "📩 envelope with arrow "
+	},
+	"mailbox with mail": {
+		"prefix": "emoji:mailbox with mail",
+		"body": "📬",
+		"description": "📬 mailbox with mail "
+	},
+	"mailbox with no mail": {
+		"prefix": "emoji:mailbox with no mail",
+		"body": "📭",
+		"description": "📭 mailbox with no mail "
+	},
+	"vibration mode": {
+		"prefix": "emoji:vibration mode",
+		"body": "📳",
+		"description": "📳 vibration mode "
+	},
+	"signal strength - wifi": {
+		"prefix": "emoji:signal strength - wifi",
+		"body": "📶",
+		"description": "📶 signal strength - wifi"
+	},
+	"film projector": {
+		"prefix": "emoji:film projector",
+		"body": "📽",
+		"description": "📽 film projector "
+	},
+	"electric plug": {
+		"prefix": "emoji:electric plug",
+		"body": "🔌",
+		"description": "🔌 electric plug "
+	},
+	"mag right": {
+		"prefix": "emoji:mag right",
+		"body": "🔎",
+		"description": "🔎 mag right "
+	},
+	"lock with ink pen": {
+		"prefix": "emoji:lock with ink pen",
+		"body": "🔏",
+		"description": "🔏 lock with ink pen "
+	},
+	"closed lock with key - security": {
+		"prefix": "emoji:closed lock with key - security",
+		"body": "🔐",
+		"description": "🔐 closed lock with key - security"
+	},
+	"capital abcd - letters": {
+		"prefix": "emoji:capital abcd - letters",
+		"body": "🔠",
+		"description": "🔠 capital abcd - letters"
+	},
+	"dove - peace": {
+		"prefix": "emoji:dove - peace",
+		"body": "🕊",
+		"description": "🕊 dove - peace"
+	},
+	"mantelpiece clock": {
+		"prefix": "emoji:mantelpiece clock",
+		"body": "🕰",
+		"description": "🕰 mantelpiece clock "
+	},
+	"business suit levitating": {
+		"prefix": "emoji:business suit levitating",
+		"body": "🕴",
+		"description": "🕴 business suit levitating "
+	},
+	"male detective detective - sleuth": {
+		"prefix": "emoji:male detective detective - sleuth",
+		"body": "🕵",
+		"description": "🕵 male detective detective - sleuth"
+	},
+	"dark sunglasses": {
+		"prefix": "emoji:dark sunglasses",
+		"body": "🕶",
+		"description": "🕶 dark sunglasses "
+	},
+	"spider web": {
+		"prefix": "emoji:spider web",
+		"body": "🕸",
+		"description": "🕸 spider web "
+	},
+	"pen": {
+		"prefix": "emoji:pen",
+		"body": "🖊",
+		"description": "🖊 pen "
+	},
+	"raised hand with fingers splayed": {
+		"prefix": "emoji:raised hand with fingers splayed",
+		"body": "🖐",
+		"description": "🖐 raised hand with fingers splayed "
+	},
+	"middle finger fu": {
+		"prefix": "emoji:middle finger fu",
+		"body": "🖕",
+		"description": "🖕 middle finger fu "
+	},
+	"vulcan salute - prosper spock": {
+		"prefix": "emoji:vulcan salute - prosper spock",
+		"body": "🖖",
+		"description": "🖖 vulcan salute - prosper spock"
+	},
+	"desktop computer": {
+		"prefix": "emoji:desktop computer",
+		"body": "🖥",
+		"description": "🖥 desktop computer "
+	},
+	"speaking head": {
+		"prefix": "emoji:speaking head",
+		"body": "🗣",
+		"description": "🗣 speaking head "
+	},
+	"right anger bubble": {
+		"prefix": "emoji:right anger bubble",
+		"body": "🗯",
+		"description": "🗯 right anger bubble "
+	},
+	"ballot box": {
+		"prefix": "emoji:ballot box",
+		"body": "🗳",
+		"description": "🗳 ballot box "
+	},
+	"world map - travel": {
+		"prefix": "emoji:world map - travel",
+		"body": "🗺",
+		"description": "🗺 world map - travel"
+	},
+	"kissing smiling eyes": {
+		"prefix": "emoji:kissing smiling eyes",
+		"body": "😙",
+		"description": "😙 kissing smiling eyes "
+	},
+	"stuck out tongue": {
+		"prefix": "emoji:stuck out tongue",
+		"body": "😛",
+		"description": "😛 stuck out tongue "
+	},
+	"stuck out tongue winking eye - prank silly": {
+		"prefix": "emoji:stuck out tongue winking eye - prank silly",
+		"body": "😜",
+		"description": "😜 stuck out tongue winking eye - prank silly"
+	},
+	"stuck out tongue closed eyes - prank": {
+		"prefix": "emoji:stuck out tongue closed eyes - prank",
+		"body": "😝",
+		"description": "😝 stuck out tongue closed eyes - prank"
+	},
+	"tired face - upset whine": {
+		"prefix": "emoji:tired face - upset whine",
+		"body": "😫",
+		"description": "😫 tired face - upset whine"
+	},
+	"grimacing": {
+		"prefix": "emoji:grimacing",
+		"body": "😬",
+		"description": "😬 grimacing "
+	},
+	"kissing cat": {
+		"prefix": "emoji:kissing cat",
+		"body": "😽",
+		"description": "😽 kissing cat "
+	},
+	"pouting cat": {
+		"prefix": "emoji:pouting cat",
+		"body": "😾",
+		"description": "😾 pouting cat "
+	},
+	"crying cat face - sad tear": {
+		"prefix": "emoji:crying cat face - sad tear",
+		"body": "😿",
+		"description": "😿 crying cat face - sad tear"
+	},
+	"slightly frowning face": {
+		"prefix": "emoji:slightly frowning face",
+		"body": "🙁",
+		"description": "🙁 slightly frowning face "
+	},
+	"slightly smiling face": {
+		"prefix": "emoji:slightly smiling face",
+		"body": "🙂",
+		"description": "🙂 slightly smiling face "
+	},
+	"upside down face": {
+		"prefix": "emoji:upside down face",
+		"body": "🙃",
+		"description": "🙃 upside down face "
+	},
+	"roll eyes": {
+		"prefix": "emoji:roll eyes",
+		"body": "🙄",
+		"description": "🙄 roll eyes "
+	},
+	"raised hands - hooray": {
+		"prefix": "emoji:raised hands - hooray",
+		"body": "🙌",
+		"description": "🙌 raised hands - hooray"
+	},
+	"pray - please hope wish": {
+		"prefix": "emoji:pray - please hope wish",
+		"body": "🙏",
+		"description": "🙏 pray - please hope wish"
+	},
+	"steam locomotive - train": {
+		"prefix": "emoji:steam locomotive - train",
+		"body": "🚂",
+		"description": "🚂 steam locomotive - train"
+	},
+	"oncoming bus": {
+		"prefix": "emoji:oncoming bus",
+		"body": "🚍",
+		"description": "🚍 oncoming bus "
+	},
+	"trolleybus": {
+		"prefix": "emoji:trolleybus",
+		"body": "🚎",
+		"description": "🚎 trolleybus "
+	},
+	"busstop": {
+		"prefix": "emoji:busstop",
+		"body": "🚏",
+		"description": "🚏 busstop "
+	},
+	"fire engine": {
+		"prefix": "emoji:fire engine",
+		"body": "🚒",
+		"description": "🚒 fire engine "
+	},
+	"police car": {
+		"prefix": "emoji:police car",
+		"body": "🚓",
+		"description": "🚓 police car "
+	},
+	"oncoming police car": {
+		"prefix": "emoji:oncoming police car",
+		"body": "🚔",
+		"description": "🚔 oncoming police car "
+	},
+	"oncoming taxi": {
+		"prefix": "emoji:oncoming taxi",
+		"body": "🚖",
+		"description": "🚖 oncoming taxi "
+	},
+	"oncoming automobile": {
+		"prefix": "emoji:oncoming automobile",
+		"body": "🚘",
+		"description": "🚘 oncoming automobile "
+	},
+	"articulated lorry": {
+		"prefix": "emoji:articulated lorry",
+		"body": "🚛",
+		"description": "🚛 articulated lorry "
+	},
+	"triangular flag on post": {
+		"prefix": "emoji:triangular flag on post",
+		"body": "🚩",
+		"description": "🚩 triangular flag on post "
+	},
+	"sleeping bed": {
+		"prefix": "emoji:sleeping bed",
+		"body": "🛌",
+		"description": "🛌 sleeping bed "
+	},
+	"bellhop bell": {
+		"prefix": "emoji:bellhop bell",
+		"body": "🛎",
+		"description": "🛎 bellhop bell "
+	},
+	"place of worship": {
+		"prefix": "emoji:place of worship",
+		"body": "🛐",
+		"description": "🛐 place of worship "
+	},
+	"small airplane - flight": {
+		"prefix": "emoji:small airplane - flight",
+		"body": "🛩",
+		"description": "🛩 small airplane - flight"
+	},
+	"flight departure": {
+		"prefix": "emoji:flight departure",
+		"body": "🛫",
+		"description": "🛫 flight departure "
+	},
+	"flight arrival": {
+		"prefix": "emoji:flight arrival",
+		"body": "🛬",
+		"description": "🛬 flight arrival "
+	},
+	"zipper mouth face - silence hush": {
+		"prefix": "emoji:zipper mouth face - silence hush",
+		"body": "🤐",
+		"description": "🤐 zipper mouth face - silence hush"
+	},
+	"money mouth face - rich": {
+		"prefix": "emoji:money mouth face - rich",
+		"body": "🤑",
+		"description": "🤑 money mouth face - rich"
+	},
+	"face with thermometer - sick": {
+		"prefix": "emoji:face with thermometer - sick",
+		"body": "🤒",
+		"description": "🤒 face with thermometer - sick"
+	},
+	"nerd face - geek glasses": {
+		"prefix": "emoji:nerd face - geek glasses",
+		"body": "🤓",
+		"description": "🤓 nerd face - geek glasses"
+	},
+	"face with head bandage - hurt": {
+		"prefix": "emoji:face with head bandage - hurt",
+		"body": "🤕",
+		"description": "🤕 face with head bandage - hurt"
+	},
+	"hugs": {
+		"prefix": "emoji:hugs",
+		"body": "🤗",
+		"description": "🤗 hugs "
+	}
+}
