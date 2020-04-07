@@ -1,0 +1,23 @@
+{
+  "name": "emoji-snippet-vscode",
+  "version": "1.0.0",
+  "publisher": "doooreyn",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "displayName": "Emoji Snippet",
+  "description": "An emoji snippet for vscode.",
+  "main": "./",
+  "keywords": [
+    "emoji",
+    "snippet"
+  ],
+  "author": "DoooReyn",
+  "license": "ISC",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DoooReyn/emoji-snippet-vscode.git"
+  },
+  "homepage": "https://github.com/DoooReyn/emoji-snippet-vscode/blob/master/README.md"
+}
